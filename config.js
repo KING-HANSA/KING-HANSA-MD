@@ -24,5 +24,6 @@ BOT_NUMBER: process.env.BOT_NUMBER || "947..",
 OWNER_REACT: process.env.OWNER_REACT || "🔗",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39",
 READ_CMD: process.env.READ_CMD || "true",
+AUTO_VOICE:"true"
 };
 
