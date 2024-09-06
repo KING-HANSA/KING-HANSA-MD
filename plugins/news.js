@@ -25,7 +25,7 @@ async (conn, mek, m, { from, reply }) => {
 🔗 _${article.url}_
 
 *© 𝑲𝑰𝑵𝑮 𝑯𝑨𝑵𝑺𝑨 𝑩𝑶𝑻 - MD* 
-*💻 GitHub:* github.com/DEWMINA-HD/KING-HANSA-MD-V1
+*💻 GitHub:* github.com/KING-HANSA/KING-HANSA-MD
             `;
 
             console.log('Article URL:', article.urlToImage); // Log image URL for debugging
