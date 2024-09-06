@@ -33,7 +33,7 @@ let desc = `
 > *Created with ❤️ by Hansa Dewmina* 
 
 > *© 𝙆𝙄𝙉𝙂 𝙃𝘼𝙉𝙎𝘼 𝘽𝙊𝙏 - MD* 
-*💻 GitHub:* github.com/DEWMINA-HD/KING-HANSA-MD-V1 
+*💻 GitHub:* github.com/KING-HANSA/KING-HANSA-MD 
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -86,8 +86,8 @@ let desc = `
 
 > *Created with ❤️ by Hansa Dewmina* 
 
-> *© 𝙌𝙐𝙀𝙀𝙉 𝙍𝙊𝙎𝙃𝙄𝙆𝘼 𝘽𝙊𝙏 - MD* 
-*💻 GitHub:* github.com/DEWMINA-HD/KING-HANSA-MD-V1
+> *© 𝙆𝙄𝙉𝙂 𝙃𝘼𝙉𝙎𝘼 𝘽𝙊𝙏 - MD* 
+*💻 GitHub:* github.com/KING-HANSA/KING-HANSA-MD
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
