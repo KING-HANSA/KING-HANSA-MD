@@ -31,7 +31,7 @@ let aliveMessage = `
 *𝒮𝓉𝒶𝓎 𝒸𝑜𝓃𝓃𝑒𝒸𝓉𝑒𝒹 𝒶𝓃𝒹 𝑒𝓃𝒿𝑜𝓎 𝓉𝒽𝑒 𝓈𝑒𝓇𝓋𝒾𝒸𝑒𝓈!* 
 ╭──────────●●►
 │*© 𝑲𝑰𝑵𝑮 𝑯𝑨𝑵𝑺𝑨 𝑩𝑶𝑻 - MD * 
-│*💻 GitHub:* github.com/DEWMINA-HD/KING-HANSA-MD-V1 
+│*💻 GitHub:* github.com/KING-HANSA/KING-HANSA-MD 
 ╰───────────●●►`
     
 await conn.sendMessage(from, { audio: { url: voice.alive }, mimetype: 'audio/mp4', ptt: true }, { quoted: mek })
