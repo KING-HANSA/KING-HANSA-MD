@@ -2,9 +2,9 @@
   "name": "King_Hansa",
   "version": "1.0.0",
   "description": "A Simple WhatsApp bot created By Hansa-Dewmina",
-  "main": "index.js",
+  "main": "queen.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name King_Hansa",
+    "start": "pm2 start queen.js --deep-monitoring --attach --name King_Hansa",
     "stop": "pm2 stop King_Hansa",
     "restart": "pm2 restart King_Hansa"
   },
