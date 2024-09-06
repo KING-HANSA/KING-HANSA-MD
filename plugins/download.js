@@ -17,6 +17,7 @@ const yourName = "𝐊𝐈𝐍𝐆 𝐇𝐀𝐍𝐒𝐀 𝐌𝐃";
 //tiktok downloader
 cmd({
     pattern: "tiktok",
+    react: "💚",
     alias: ["tt"],
     desc: "download tt videos",
     category: "download",
@@ -42,6 +43,7 @@ async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, send
 //twitter dl (x)
 cmd({
     pattern: "twitter",
+    react: "💙",
     alias: ["twdl"],
     desc: "download tw videos",
     category: "download",
@@ -67,6 +69,7 @@ async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, send
 //gdrive(google drive) dl
 cmd({
     pattern: "gdrive",
+    react: "💜",
     alias: ["googledrive"],
     desc: "download gdrive files",
     category: "download",
@@ -88,6 +91,7 @@ async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, send
 //mediafire dl
 cmd({
     pattern: "mediafire",
+    react: "💜",
     alias: ["mfire"],
     desc: "download mfire files",
     category: "download",
