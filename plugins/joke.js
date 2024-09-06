@@ -22,7 +22,7 @@ async (conn, mek, m, { from, q, reply }) => {
 ${joke.punchline} 😄
 
 *© 𝐊𝐈𝐍𝐆 𝐇𝐀𝐍𝐒𝐀 𝐁𝐎𝐓 - MD* 
-*💻 GitHub:* github.com/DEWMINA-HD/KING-HANSA-MD-V1 `;
+*💻 GitHub:* github.com/KING-HANSA/KING-HANSA-MD `;
 
         return reply(jokeMessage);
     } catch (e) {
