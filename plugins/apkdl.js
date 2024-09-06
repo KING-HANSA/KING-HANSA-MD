@@ -3,7 +3,7 @@ const {cmd , commands} = require('../command')
 const { fetchJson } = require('../lib/functions')
 
 cmd({
-    pattern: "apk",
+    pattern: "apkdl",
     alias: ["modapk"],
     desc: "download apks",
     category: "download",
