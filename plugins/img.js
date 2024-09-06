@@ -39,7 +39,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 image: buffer,
                 caption: `
 🌟 *Image ${i + 1} from your search!* 🌟
-✨ 𝐃𝐀𝐑𝐊 𝐙𝐄𝐑𝐎 𝐌𝐃 𝐈𝐌𝐆 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑 ✨
+✨ 𝐊𝐈𝐍𝐆 𝐇𝐀𝐍𝐒𝐀 𝐌𝐃 𝐈𝐌𝐆 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑 ✨
         єηנσу тнєѕє ιмαgєѕ! 📸
 `
 }, { quoted: mek });
