@@ -26,7 +26,6 @@
     "yt-search":"2.12.1",
     "api-dylux":"1.8.5",
     "fb-downloader-new":"0.0.2",
-    "ruhend-scraper":"7.0.6",
-    "mongoose":"8.6.1"
+    "ruhend-scraper":"7.0.6"
   }
 }
